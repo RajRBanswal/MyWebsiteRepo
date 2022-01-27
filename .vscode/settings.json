@@ -1,0 +1,11 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.autoClosingBrackets": "always",
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.formatOnSave": true,
+    "diffEditor.codeLens": true,
+    "files.autoSave": "onWindowChange",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
